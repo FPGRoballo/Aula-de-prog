@@ -2,3 +2,11 @@ IBMEC Centro
 Aluno: Felipe Pinto Guedes Roballo
 Professor: Eduardo Brito
 Data: 20/02/2024
+
+Definição de arquivo de texto
+
+O que é um arquivo de texto
+
+O que é uma variável no contexto da programação de computadores
+
+O que é um servidor no contexto da computação
