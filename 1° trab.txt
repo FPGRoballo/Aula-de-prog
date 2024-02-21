@@ -3,10 +3,14 @@ Aluno: Felipe Pinto Guedes Roballo
 Professor: Eduardo Brito
 Data: 20/02/2024
 
-Definição de arquivo de texto
+Definição de arquivo no contexto da computação:
+O arquivo, na computação, é um conjunto organizado de unidades de informação (em bits) armazenado em um dispositivo. Cada arquivo é singular, uma identificação ou nome único, que pode ser modificado ou atribuído à vontade do usuário ou do programdor. Os bits são pequenos pacotes de dados qe são organizados em registros ou linhas, cada um tendo sua singularidade, porém, com uma característica em comum. A forma como esses dados são agrupados depende de quem faz os arquivos, com isso, existem diversas estruturas diferentes que um arquivo pode ter, sendo elas mais simples e mais complexas que as outras.
 
-O que é um arquivo de texto
+O que é um arquivo de texto:
+Os arquivos de texto são aqueles que contêm sequências de caracteres alfanuméricos organizados em sequências específicas
 
-O que é uma variável no contexto da programação de computadores
+O que é uma variável no contexto da programação de computadores:
+A variável é um ou mais valores que podem ser manipulados pelos programas durante a sua operação. O nome é utilizado por ser um tipo de conteúdo qe pode apresentar diferentes valores enquanto o sistema está em execução, dependendo apenas do comando que o usuário der e o tipo de operação que é realizado 
 
-O que é um servidor no contexto da computação
+O que é um servidor no contexto da computação:
+
