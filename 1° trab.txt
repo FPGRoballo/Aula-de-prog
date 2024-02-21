@@ -13,4 +13,5 @@ O que é uma variável no contexto da programação de computadores:
 A variável é um ou mais valores que podem ser manipulados pelos programas durante a sua operação. O nome é utilizado por ser um tipo de conteúdo qe pode apresentar diferentes valores enquanto o sistema está em execução, dependendo apenas do comando que o usuário der e o tipo de operação que é realizado 
 
 O que é um servidor no contexto da computação:
+O servidor é um computador com um ou mais processadores, bancos de memória, portas de comunicação, softwares e sistemas para armazenamento de dados, como hard disks, conhecidos como HD's ou os SSD's (Solid State Drive). São capazes de processar aplicações, prestar serviços e armazenar dados, podendo ser físicos ou virtuais, estarem instalados local ou remotamente. 
 
