@@ -1,0 +1,33 @@
+IBMEC Centro
+Aluno: Felipe Pinto Guedes Roballo
+Professor: Eduardo Brito
+Data: 20/02/2024
+
+Definição de arquivo no contexto da computação:
+O arquivo, na computação, é um conjunto organizado de unidades de informação (em bits) armazenado em um dispositivo. Cada arquivo é singular, uma identificação ou nome único, que pode ser modificado ou atribuído à vontade do usuário ou do programdor. Os bits são pequenos pacotes de dados qe são organizados em registros ou linhas, cada um tendo sua singularidade, porém, com uma característica em comum. A forma como esses dados são agrupados depende de quem faz os arquivos, com isso, existem diversas estruturas diferentes que um arquivo pode ter, sendo elas mais simples e mais complexas que as outras.
+
+O que é um arquivo de texto:
+Os arquivos de texto são aqueles que contêm sequências de caracteres alfanuméricos organizados em sequências específicas
+
+O que é uma variável no contexto da programação de computadores:
+A variável é um ou mais valores que podem ser manipulados pelos programas durante a sua operação. O nome é utilizado por ser um tipo de conteúdo qe pode apresentar diferentes valores enquanto o sistema está em execução, dependendo apenas do comando que o usuário der e o tipo de operação que é realizado 
+
+O que é um servidor no contexto da computação:
+O servidor é um computador com um ou mais processadores, bancos de memória, portas de comunicação, softwares e sistemas para armazenamento de dados, como hard disks, conhecidos como HD's ou os SSD's (Solid State Drive). São capazes de processar aplicações, prestar serviços e armazenar dados, podendo ser físicos ou virtuais, estarem instalados local ou remotamente. 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+IBMEC - Centro 
+Aluno: Felipe Pinto Guedes Roballo
+Professor: Eduardo Brito
+Data: 27/02/2024
+
+A relação entre a LGPD e os Data Center no Brasil;
+
+Com a implementação mais constante da LGPD em empresas, as organizações que utilizam Data Centers são obrigadas pela Lei Geral de Proteção de Dados a serem mais responsáveis com o gerenciamento dessas informações armazenadas em seu banco de dados. As empresas devem ter uma atenção maior com o mapeamento de dados que estão sob sua responsabilidade. As organizações devem aumentar o rigor da política de acesso aos ambientes físicos e virtuais para minimizar as probabilidades de roubo ou vazamento de dados. 
+
+Formatos de dados proprietários e abertos;
+
+O formato aberto é uma especificação técnica de domínio público usada para a descrição e armazenamento de dados digitais, os quais são livres de restrições legais para o uso. Isso garante o acesso aos dados a longo prazo, sem inseguranças jurídicas ou restrições devidas às especificações técnicas
+O formato proprietário são controlados e definidos pro interesses privados. Ao utilizar o formato proprietário, o usuário correrá o risco de perder todas as informações contidas no arquivo caso o software pare de funcionar ou for descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas nos arquivos públicos (órgãos administradores, instituições, etc) se tornariam ilegíveis e inutilizáveis. 
+
+Diante do apresetado acima, seria mais eficiente e seguro, os daddos públicos serem utilizados em formato aberto, pois assim garante um acesso mais fácil e corre menos perigo de serem perdidos por descontinuação de software ou parar de funcionar propriamente. 
