@@ -4,3 +4,9 @@ Professor: Eduardo Brito
 Data: 27/02/2024
 
 A diferença entre 3 linguagens de programação;
+
+O JavaScript e o Pyhthon são linguagens de baixa tipagem, difente do C, que é fortemente tipada, ou seja, para compilar código em C, além de usar a função "main", é necessário definir o tipo das variáveis.
+O Python é uma linguagem de uso geral, por ser mais facilmente compreendida por sua facilidade de leitura.
+O JavaScript, por sua vez, é a linguagem usada em navegadores, boa parte dos sites tem a presença dessa linguagem para serem formados.
+O C é uma linguagem de alto desempenho, muito utilizada para jogos e para sistemas embarcados. Tem um controle preciso de memória e baixo consumo de recursos.
+Na linguagem do Python, o escopo de função é baseado na identação, já no JavaScript é baseado na abertura de chaves, assim como o C.
