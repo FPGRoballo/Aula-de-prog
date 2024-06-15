@@ -1,0 +1,43 @@
+Cliente,Caso,Despesa,Receita
+Aldino Miller Ferreira Zanella Pereira de Souza Mattos Prazeres,1,4425.92,3575.72
+Balbina Ambrosio Lobato Filgueira Aguilar Dourado Canuto,2,4130.07,4356.77
+Cezar Favaro Prates de Sousa Eduardo Faustino,3,4845.62,4550.15
+Cezar Favaro Prates de Sousa Eduardo Faustino,4,3771.9,1484.69
+Danilo Pedrosa Cintra Sanchez,5,2876.89,936.07
+Dayne Caetano Borges Lira da Gloria,6,3536.37,5658.56
+Deysiane Farias Gon Alves Rodrigues da Silva Gurgel Figueredo,7,1043.61,2342.36
+Dorvalino Bacelar Bispo da Conceiçao Cassiano das Merces da Costa,8,486.11,3751.12
+Edilane de Melo Romero Blanco Frazao Julião Galvao,9,1731.55,4459.17
+Eleonor Ladeira Macedo Loureiro da Mata,10,258.49,195.64
+Eli Fortes Noronha de Padua Claudino,11,461.83,4778.65
+Eliabe Prudente Marcelino,12,4619.42,2077.65
+Eliabe Prudente Marcelino,13,911.6,387.59
+Elvina Camargos Queiros Santanna Aragao Pedrosa Cristina,14,2742.02,3901.38
+Elvina Camargos Queiros Santanna Aragao Pedrosa Cristina,15,3621.86,4523.49
+Erison Sodre de Menezes Afonso Germano de Mesquita,16,1131.09,5570.11
+Erison Sodre de Menezes Afonso Germano de Mesquita,17,1828.05,3124.58
+Ernane Jordao Batista de Albuquerque Aires Alves de Souza de Franca,18,1434.94,560.61
+Ernane Jordao Batista de Albuquerque Aires Alves de Souza de Franca,19,4759.29,3499.81
+Gizelle Borges Leitao Quaresma Ramos Soares,20,1571.68,19.21
+Ita Goes Baia Brasil Saraiva,21,1172.33,1547.06
+Ita Goes Baia Brasil Saraiva,22,1019.09,5783.46
+Jeraldo Bessa Benedito Franca,23,1637.03,607.25
+Jeraldo Bessa Benedito Franca,24,3838.22,1355.76
+Jumara Pestana Malheiros Campos Malheiros Hernandes,25,1747.49,5367.77
+Leoni Maranhao de Vasconcelos Lino Verissimo,26,3896.61,2739.46
+Lucimaria Tinoco Bello Meneses Cruz,27,4448.13,3103.61
+Ludmilla Floriano Benedito Mayer do Nascimento,28,1415.23,5961.81
+Lui da Silva Vasconcellos,29,472.79,5075.23
+Lui da Silva Vasconcellos,30,3425.85,1119.58
+Marines do Valle de Araujo,31,2112.24,2586.06
+Midian Barboza Sobreira Bianchini de Sena,32,4778.94,2739.17
+Midian Barboza Sobreira Bianchini de Sena,33,2783.34,5307.9
+Natam Seixas Correia,34,1095.91,3333.1
+Sthefany Afonso Felix Lemes,35,3152.99,1107.45
+Suelene Penna Dal da Graca Colares Nazareno,36,1873.45,1209.52
+Suelene Penna Dal da Graca Colares Nazareno,37,4598.63,4412.48
+Thabata Péres Florencio Alberto Prates,38,4290.17,517.82
+Thabata Péres Florencio Alberto Prates,39,570.58,2916.1
+Valci Chaves do Socorro Silva,40,2211.68,2041.32
+Valci Chaves do Socorro Silva,41,4096.31,1895.02
+Weslane Junqueira Gurgel Roque Calazans Darc Guilherme,42,3998.03,4884.92
