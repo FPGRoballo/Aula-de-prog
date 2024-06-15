@@ -1,0 +1,15 @@
+
+    Nome do Cliente: Balbina Ambrosio Lobato Filgueira Aguilar Dourado Canuto
+    
+    Casos:
+             
+        Caso 2
+            Despesas: 4130.07
+            Receitas: 4356.77
+            
+        
+    
+    Total de Despesas: 4130.07
+    Total de Receitas: 4356.77
+    Diferença entre Totais: 226.7
+    
